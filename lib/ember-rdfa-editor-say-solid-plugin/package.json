@@ -25,8 +25,8 @@
   "dependencies": {
     "ember-cli-babel": "^7.20.5",
     "ember-cli-htmlbars": "^5.1.2",
-    "ember-auto-import": "^1.5.3", 
-    "rdflibcustom": "jlpoelma/rdflib.js#cors_proxy_fix", 
+    "ember-auto-import": "^1.5.3",
+    "rdflib": "jlpoelma/rdflib.js#cors_proxy_fix",
     "ember-rdflib": "0.0.4",
     "solid-addon": "git+https://github.com/Kortika/ember-solid-addon.git",
     "@glimmer/tracking": "^1.0.0"
